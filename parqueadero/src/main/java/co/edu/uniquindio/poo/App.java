@@ -1,7 +1,7 @@
 package co.edu.uniquindio.poo;
 
 /**
- * Hello world!
+ * hola vega
  *
  */
 public class App {
